@@ -4,24 +4,24 @@ Your e-mail address and google id.
 
 Your Project's Title
 
-Abstract
+# Abstract
 
 A short description.
 
 (The rest should be entered in the "detailed description" box.)
 
-Benefits to the Sabayon/Open Source Community
+# Benefits to the Sabayon/Open Source Community
 
 Who will benefit from your project and in what ways? Describe the likely
 user-base and what means they might currently be using to accomplish the same
 ends. Are you proposing an incremental improvement, a fundamentally new
 approach, or an aggregation of existing tools/ideas?
 
-Deliverables
+# Deliverables
 
 Describe the quantifiable results and goals.
 
-Project Details
+# Project Details
 
 You can't be too detailed. Describe prior art and the concepts on which your
 project is based. What is new or different about your approach which wasn't
@@ -33,29 +33,29 @@ experiments. What is your plan for dealing with snags, unforeseen difficulties,
 or setbacks? How useful will your results be if (when) not everything works
 exactly as planned?
 
-Project Schedule
+# Project Schedule
 
 What are the milestones? Be sure to include dates which are compatible with the
 timeline.
 
-References and Likely Mentors
+# References and Likely Mentors
 
 Which managers and/or likely mentors have you contacted about your plans? Who
 was the most helpful? Have any of them offered to mentor your project?
 
-License
+# License
 
 Under what license will your code be published? Projects may pick an OSI
 license, but we recommend the GPL.
 
-Bio
+# Bio
 
 Who are you? What makes you the best person to work on this project? What
 experience do you have with Sabayon and other Open Source projects? What
 development tools and methods do you use? Have you previously been responsible
 (either as an employee/volunteer/student) for a project of this size?
 
-Eligibility
+# Eligibility
 
 Are you an eligible student and do you meet google's legal requirements? Do you
 have the paperwork to prove it? (Note that you only have to prove it to Google,
