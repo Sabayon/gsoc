@@ -7,28 +7,6 @@ you're interested in more reading on your mentoring duties, please refer to
 following that.
 
 
-Backup mentors
-==============
-
-This year, given the number of slots we were assigned and the huge amount of
-mentors at our disposal, we have the luxury of giving each student two mentors
-to reduce the load on the mentors, to provide the student with more feedback and
-to be able to detect problems early.
-
-However, each project can only have one assigned mentor. I'll refer to that
-mentor as the "primary mentor". The second mentor is the "backup mentor".
-
-Backup mentors are, of course, free to get involved into the mentoring process
-as much as they like. However, the minimum a backup mentor has to do will be
-monitoring the status of the project as well as the communication between the
-primary mentor and the student, as described later on in "Keep in touch with the
-student".
-
-Primary mentors and backup mentors should get in touch with each other well
-before the coding period starts and discuss how exactly they plan to handle the
-mentoring tasks.
-
-
 Make sure your student is ready to start working before he has to
 =================================================================
 
